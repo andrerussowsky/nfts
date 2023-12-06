@@ -1,0 +1,14 @@
+{
+  "description":"Nft B",
+  "name":"Nft B",
+  "attributes": [
+    {
+      "trait_type":"Color",
+      "value":"Silver"
+    },
+    {
+      "trait_type":"ID",
+      "value":"2"
+    },
+  ]
+}
