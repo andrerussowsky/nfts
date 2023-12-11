@@ -1,15 +1,22 @@
 {
-  "description": "Gold coin",
-  "image": "https://openmoji.org/data/color/svg/1FA99.svg",
-  "name": "Gold",
-  "attributes": [
-    {
-      "trait_type": "Color",
-      "value": "Gold"
-    },
-    {
-      "trait_type": "ID",
-      "value": "0"
-    }
-  ]
+	"name": "Alphie",
+	"description": "ALPHIE is the loveable and loyal corgi. He's always eager to help someone in need and tries to be brave even when he's scared. He's a big planner as it helps him feel an element of control in a chaotic world, but he gets flustered when his plans don't go as expected. He'd love to learn how to go with the flow more like Juno and to throw caution to the wind like Comet, but he's usually the cautious risk assessor of the group. He's everyone's biggest cheerleader, super into fashion accessories, and is also quite the klutz to cute and comedic effect. Sometimes his stumbles even help get the crew out of tight situations! Alphie is incredibly protective and willing to do anything to keep his friends safe. Except during Thunderstorms, because he'll be too busy barking and hiding from the scary thunder!",
+	"image": "https://arweave.net/ZT15XgzGOKb2vm52evD4jwF5PtcKaJTaAEq-gi_QyAY",
+	"properties": {
+		"platform_id":"6328e7d84fdd4bd769de6e34",
+		"category":"Character",
+		"type":"Corgi",
+		"skin":"Funs",
+		"packaging":"Closed",
+		"tier":"Hero",
+		"rarity":"Legendary",
+		"series":"Zoo-F-O",
+		"legion_id":"632de86f4fdd4bd769df9b00",
+		"creator":"OnChain Studios, Inc.",
+		"terms_url":"https://arweave.net/U0E9ZyMaqdBrJqIqXFYlnIZGKXHBO4k-YilkMoLksgQ",
+		"collection":"Cryptoys",
+		"licensed_by":"OnChain Studios",
+		"origin":"Clone-O-Matic 2000",
+		"release":"Single"
+	}
 }
