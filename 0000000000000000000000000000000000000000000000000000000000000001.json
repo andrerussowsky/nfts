@@ -1,15 +1,22 @@
 {
-  "description": "Silver coin",
-  "image": "https://openmoji.org/data/black/svg/1FA99.svg",
-  "name": "Silver",
-  "attributes": [
-    {
-      "trait_type": "Color",
-      "value": "Silver"
-    },
-    {
-      "trait_type": "ID",
-      "value": "1"
-    }
-  ]
+	"name": "Comet",
+	"description": "COMET the kitty is the life of the party and always looking for an adventure. She is playful, curious, and easily distracted. When she gets an idea in her head, there is very little that can stop her from doing it! She is not a planner and will often jump into things before checking with her friends, Alphie and Juno, which forces them into situations beyond their comfort zones. Sometimes things work out fine, but other times it gets them into sticky situations! Comet loves to meet new folks and believes there is no limit to how many friends she can have. Sometimes Comet worries that if she listens to the concerns or worries of others, it'll keep her from going on the adventures she knows are waiting for her. However, she also knows that adventures are better with friends. Sometimes Comet gets into moods where she either wants all of your attention or none of it.",
+	"image": "https://arweave.net/YdNKbEpBYUIVCX9mqYwxnB9JpRUFNUYjS45mF02n4kU",
+	"properties": {
+		"platform_id":"6328e7d84fdd4bd769df8b5c",
+		"category":"Character",
+		"type":"Kitty",
+		"skin":"Ziggy",
+		"packaging":"Opened",
+		"tier":"Hero",
+		"rarity":"Legendary",
+		"series":"Zoo-F-O",
+		"legion_id":"6328e8034fdd4bd769df9afd",
+		"creator":"OnChain Studios, Inc.",
+		"terms_url":"https://arweave.net/U0E9ZyMaqdBrJqIqXFYlnIZGKXHBO4k-YilkMoLksgQ",
+		"collection":"Cryptoys",
+		"licensed_by":"OnChain Studios",
+		"origin":"Clone-O-Matic 2000",
+		"release":"Single"
+	}
 }
